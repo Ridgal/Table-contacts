@@ -1,0 +1,10 @@
+.container {
+  width: 1232px;
+  height: 820px;
+  box-shadow: 0px 4px 27px rgba(230, 231, 234, 0.78);
+  background-color: #FFFF;
+}
+
+.content {
+  margin: 4vh 6vh 2vh 6vh;
+}

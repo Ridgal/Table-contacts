@@ -1,0 +1,14 @@
+.btn-sort {
+  display: inline-flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 632px !important;
+  background-color: #474955 !important;
+  color: #fff !important;
+  border: none !important;
+  box-shadow: none!important;
+}
+
+.btn-sort h6 {
+  margin: 0px 38px 0px 0px;
+}

@@ -1,0 +1,31 @@
+.form-field {
+  display: flex;
+}
+
+.search {
+  height: 3vw !important;
+  background-color: #5A5C66 !important;
+  color: #fff !important;
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+  padding: 26px !important;
+  font-weight: 400 !important;
+}
+
+.search-btn {
+  background-color: #5A5C66 !important;
+  width: 6vh !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.search-btn i::before {
+  font-size: 24px !important;
+  color: #fff !important;
+}
+
+/* input:-webkit-autofill:focus {
+  -webkit-text-fill-color: green;
+  transition: background-color 5000s ease-in-out 0s;
+} */
