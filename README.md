@@ -1,4 +1,4 @@
-# Table React
+# React Table using Redux
 
 ## Getting Started with Create React App
 
