@@ -1,5 +1,5 @@
-# Table users...
-## Табилица пользователей, с поиском отдельного контакта. Stack (Javascript, React, Redux, Bootstrap)
+# Table contacts...
+## Таблица пользователей, с поиском отдельного контакта. Stack (Javascript, React, Redux, Bootstrap)
 
 ![Table](https://github.com/Ridgal/TABLE-REACT/blob/master/src/images/table.png)
 
